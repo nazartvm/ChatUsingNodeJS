@@ -1,0 +1,22 @@
+{
+  "name": "nodejschat",
+  "version": "1.0.0",
+  "description": "simple chat application using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazartvm/ChatUsingNodeJS.git"
+  },
+  "author": "nazartvm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazartvm/ChatUsingNodeJS/issues"
+  },
+  "homepage": "https://github.com/nazartvm/ChatUsingNodeJS#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
